@@ -1,6 +1,6 @@
 <template>
     <section class="news">
-        <header class="news-header">Latest News</header>
+        <header class="news-header">Top News</header>
         <div class="news-block">
             <div class="news-item" v-for="(article, index) in news" :key="index">
                 <div class="thumb-img">

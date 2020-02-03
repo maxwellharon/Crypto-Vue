@@ -32,6 +32,7 @@
     "amcharts3": "github:amcharts/amcharts3",
     "amstock3": "^3.21.15",
     "bootstrap": "^4.4.1",
+    "javascript-time-ago": "^2.0.6",
     "register-service-worker": "^1.6.2",
     "timeago.js": "^4.0.2",
     "vue": "^2.6.11",
